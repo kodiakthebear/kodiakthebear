@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kodiakthebear
-- 👀 I’m interested in game design, game engines, game environments and visual effects software
+- 👀 I’m interested in web development, game design, game engines, game environments and visual effects software
 - 🌱 I’m currently learning c#, javascript, c++, unity, unreal engine and web dev
 - 💞️ I’m looking to collaborate on anything that helps me learn and grow in this field.
 - 📫 How to reach me - mukundranjant@gmail.com; @mukundrt (insta), @MukundRTiwari1 (twitter) and MarvelousMistaM (discord.gg)
