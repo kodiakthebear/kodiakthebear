@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kodiakthebear, a data scientist and ML enthusaist!
-- 👀 I’m interested in statistics, data science, applied analytics, machine learning, automation, agents, NLP, with an added ineterst in game design and development.
+- 👀 I’m interested in statistics, data science, applied analytics, machine learning, automation, agents and NLP, with an added interst in game design and development.
 - 🧠 I am proficient in Python (numpy, pandas, tensorflow, pytorch, scikit-learn, nltk, keras, spaCy, seaborn, plotly), R, SQL, MATLAB and Java and HTML with some limited knowledge of JS.
 - 💞️ I’m looking to collaborate on anything that helps me learn and grow in this field.
 - 📫 How to reach me - mukundranjan.tiwari@gmail.com; or via social media on the following channels - @btrchknburrito (X (formerly twitter)), @mukundrt (instagram), and MarvelousMistaM (discord.gg)
